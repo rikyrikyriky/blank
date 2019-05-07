@@ -18,3 +18,10 @@
 
 </body>
 </html>
+
+ref : 
+
+https://stackoverflow.com/questions/7815374/get-element-inside-element-by-class-and-id-javascript
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_node_textcontent
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_node_textcontent_innerhtml_innertext
+https://www.w3schools.com/jsref/prop_node_textcontent.asp
