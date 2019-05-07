@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<div id="myBtn">
+<h1>TOLE</h1>
+	<div class="widget-content"><b>TOLOL</b></div>
+</div>
+
+<p id="demo"></p>
+
+<script>
+
+  var x = document.getElementById("myBtn").getElementsByClassName("widget-content")[0].innerHTML;
+  document.getElementById("demo").innerHTML = x;  
+
+</script>
+
+</body>
+</html>
